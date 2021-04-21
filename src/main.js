@@ -21,7 +21,7 @@ $(document).ready(function() {
     request.open("GET", url, true);
     request.send();
 
-   function getElements(response) {
+    function getElements(response) {
       $('.showHumidity').text(`The humidity in ${city} is ${response.main.humidity}%`);
       $('.showTemp').text(`The temperature in Kelvins is ${response.main.temp} degrees.`);
     }
