@@ -1,7 +1,6 @@
-# [Template]
+# Weather
 
-#### _This is the [Template] created by John Edmondson_
-
+#### _This is a Weather repository to practice making API calls created by John Edmondson_
 
 #### By _**John Edmondson**_
 
@@ -33,15 +32,15 @@
 
 ### Installation
 
-1. Clone the repository: `$ git clone [Repo URL]`
-2. Navigate to the `[path]` directory on your computer
+1. Clone the repository: `$ git clone https://github.com/basicjohn/weather.git`
+2. Navigate to the `./weather/` directory on your computer
 3. Open with your preferred text editor to view the code base
 4. To start a development server and view the project in the browser:
-   - Navigate to `[path]` in your command line
+   - Navigate to `./weather/` in your command line
    - Run the command `npm install` to install dependencies
    - Optionally, run the commmand `npm run build` to make a bundle of the files
    - Finally, run the command `npm run start` to start a development server
-5. To run tests, navigate to `[path]` in your terminal and run the command `npm run test`
+5. To run tests, navigate to `./weather/` in your terminal and run the command `npm run test`
 
 ## Known Bugs
 
